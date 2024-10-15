@@ -32,8 +32,8 @@ You can change the learning rate (LN) and epochs (EPOCHS) variables.
 
 Loaded Iris dataset
 
-![Iris dataset](/home/ggous/Fast_NN/iris.png)
+![Iris dataset](./iris.png)
 
 Predictions
 
-![Predictions](/home/ggous/Fast_NN/preds.png)
+![Predictions](./preds.png)
